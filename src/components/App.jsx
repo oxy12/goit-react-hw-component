@@ -7,7 +7,7 @@ import Statistics from './Statistics/Statistics';
 import friends from './FriendList/friends.json';
 import FriendList from './FriendList/FriendList';
 
-import transactions from './TransactionHistory/transactions.json';
+import transactions from './TransactionHistory/Transactions.json';
 import TransactionHistory from './TransactionHistory/TransactionHistory';
 
 
